@@ -41,10 +41,10 @@ redirect_from:
 
 <ul>
   <li>
-    <p><a href="">XXX: XXXXX</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="https://arxiv.org/pdf/2210.05280.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</p>
+    <p><a href="">XXX: XXXXX</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="https://www.baidu.com/">Paper</a>][<a href="https://www.baidu.com/">Code</a>][<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]</p>
   </li>
 </ul>
-
+https://www.baidu.com/
 
 
 If you find my works or codes help, please consider citing me. (●°u°●)​ 」
