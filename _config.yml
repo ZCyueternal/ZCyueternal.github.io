@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yuqian Fu's Homepage"
+title                    : "Welcome to Chong-Yu Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Yuqian Fu"
-description              : &description "Yuqian Fu's Website"
-url                      : https://lovelyqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chong-Yu Zhang"
+description              : &description "Chong-Yu Zhang's Website"
+url                      : https://ZCyueternal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lovelyqian/lovelyqian.github.io"
+repository               : "ZCyueternal/ZCyueternal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqian Fu"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Fudan University."
-  location         : "Shanghai"
-  employer         : #"Fudan University"
+  name             : "Chong-Yu Zhang"
+  avatar           : "" # "profile.png"
+  bio              : "Graduate student at Shandong University" # "Ph.D. Candidate at Fudan University."
+  location         : "Jinan"
+  employer         : #"Shandong University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
-  email            :  "fuyq20@fudan.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
+  email            : "zhangchongyu22@gmail.com" #"fuyq20@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lovelyqian"
+  github           : "ZCyueternal"
   google_plus      :
   keybase          :
   instagram        : 
