@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-
+<!-- 
 <ul>
   <li>
     <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="https://arxiv.org/pdf/2210.05280.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</p>
@@ -36,6 +36,15 @@ redirect_from:
     <p><a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf"> Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent </a><br /> <strong>Yuqian Fu</strong>, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>) <br /> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">Code</a>][<a href="http://www.sdspeople.fudan.edu.cn/fuyanwei/dataset/UnrealAction/">UnrealAction Dataset</a>]</p>
   </li>
 </ul>
+
+-->
+
+<ul>
+  <li>
+    <p><a href="">XXX: XXXXX</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="https://arxiv.org/pdf/2210.05280.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</p>
+  </li>
+</ul>
+
 
 
 If you find my works or codes help, please consider citing me. (●°u°●)​ 」
