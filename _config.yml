@@ -11,7 +11,7 @@ title                    : "Welcome to Chong-Yu Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Chong-Yu Zhang"
 description              : &description "Chong-Yu Zhang's Website"
-url                      : https://ZCyueternal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZCyueternal.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZCyueternal/ZCyueternal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Chong-Yu Zhang"
-  avatar           : "" # "profile.png"
+  avatar           : "miaomiao.png" # "profile.png"  This is your headphoto.
   bio              : "Graduate student at Shandong University" # "Ph.D. Candidate at Fudan University."
-  location         : "Jinan"
+  location         : "Jinan, China"
   employer         : #"Shandong University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=OsbUzCMAAAAJ&hl=en"
   email            : "zhangchongyu22@gmail.com" #"fuyq20@fudan.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chong-Yu-Zhang"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6755-6762"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -178,9 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  #publications:
-  #  output: true
-  #  permalink: /:collection/:path/
+  publications:
+   output: true
+   permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -219,15 +219,15 @@ defaults:
       share: true
       comments: true
   # _publications
-  # - scope:
-  #     path: ""
-  #     #type: publications
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      #type: publications
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   #_portfolio
   - scope:
       path: ""

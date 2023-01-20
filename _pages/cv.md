@@ -29,9 +29,18 @@ Education
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
 * China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022) -->
 
+Services
+------
+
+* Reviewer for journals
+  * IEEE Transactions on ...
+
+* Reviewer for conferences
+  * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
+  
 
 <!-- Work experience
-======
+------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -62,25 +71,6 @@ Skills
 More
 ------
 * My Chinese blog can be found [here](https://www.zhihu.com/people/zhang-chong-yu-13).
-
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+* cv html page can de found [here](../ownhtml/cv_html_page.html). 
 
 

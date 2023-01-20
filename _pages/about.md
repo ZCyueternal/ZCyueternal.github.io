@@ -14,6 +14,7 @@ I am currently a Graduate student at  <a href="https://mima.sdu.edu.cn">MIMA</a>
 
 My current research topics are Information Retrieval and and deep learning, and I am mainly focused on multi-modal retrieval, online learning, incremental learning, and federated learning.
 
+[^_^]: # Click [here](https://zcyueternal.github.io/files/not.pdf) to view my up-to-date CV.
 
 News
 ------
