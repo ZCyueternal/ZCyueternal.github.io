@@ -33,7 +33,8 @@ Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-MED2N.png" width="350"/>
+      <!-- <img src="../images/framework-MED2N.png" width="350"/> -->
+      <img src="../images/miaomiao.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">XXX: XXXXXXX</span><br>

@@ -40,7 +40,10 @@ Services
   * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
   
+Teaching
+------
 
+* Spring, 2023. TA in **Deep Learning**, instructed by Prof. <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a> and Prof. <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. 
 <!-- Work experience
 ------
 * Summer 2015: Research Assistant
