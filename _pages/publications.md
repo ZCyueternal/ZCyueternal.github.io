@@ -14,7 +14,7 @@ redirect_from:
 ====== -->
 <ul>
   <li>
-    <p><a href="">XXX: XXXXX</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://www.baidu.com/">Paper</a>][<a href="https://www.baidu.com/">Code</a>][<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]</p>
+    <p><a href="">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://www.baidu.com/">Paper</a>][<a href="https://www.baidu.com/">Code</a>][<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]</p>
   </li>
 </ul>
 
