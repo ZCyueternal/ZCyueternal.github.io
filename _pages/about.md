@@ -40,7 +40,8 @@ Publications
             <span style="font-size:18px">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</span><br>
             <span style="font-size:16px">Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://www.baidu.com/">Paper</a>][<a href="https://www.baidu.com/">Code</a>][<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://www.baidu.com/">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>]
+            <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]--></span>
     </th>
   </tr> 
 </table>
