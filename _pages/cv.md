@@ -78,5 +78,5 @@ Skills
 More
 ------
 * My Chinese blog can be found [here](https://www.zhihu.com/people/zhang-chong-yu-13).
-* cv html page can de found [here](../ownhtml/cv_html_page.html). 
+* cv html page can be found [here](../ownhtml/cv_html_page.html). 
 
