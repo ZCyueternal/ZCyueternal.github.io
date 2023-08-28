@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D: Shandong University (2022-)
+* M.S.: Shandong University (2022-)
   * GPA: N/A (<strong>Top N/A</strong>)
   * Artificial Intelligence
   * Information Retrieval and Deep Learning, especially Multi-modal Retrieval, Online Learning, Incremental Learning, and Federated Learning.
@@ -43,7 +43,7 @@ Services
 Teaching
 ------
 
-* Spring, 2023. TA in **Deep Learning**, instructed by Prof. <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a> and Prof. <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. 
+* Spring, 2023. TA in **Deep Learning**, instructed by Assistant Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a> and Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. 
 
 
 <!-- Work experience
