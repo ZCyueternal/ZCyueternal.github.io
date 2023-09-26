@@ -13,7 +13,7 @@ redirect_from:
 Education
 ------
 * M.S.: Shandong University (2022-)
-  * GPA: N/A (<strong>Top N/A</strong>)
+  * GPA: N/A (<strong>Top 3</strong>)
   * Artificial Intelligence
   * Information Retrieval and Deep Learning, especially Multi-modal Retrieval, Online Learning, Incremental Learning, and Federated Learning.
 * B.S.: University of Jinan (2018-2022) (Honours Degree)
