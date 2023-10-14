@@ -52,7 +52,7 @@ Publications
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Federated Class-Incremental Learning with Prompting</span><br>
-            <span style="font-weight:normal">Jiale Liu, Yu-Wei Zhan, <span style="font-size:16px">Chong-Yu Zhang</span>, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu</span><br>
+            <span style="font-weight:normal"><span style="font-size:16px">Jiale Liu, Yu-Wei Zhan</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">arxiv, 2023.</span>
             <br>
             <span style="font-weight:normal;font-size:16px">
