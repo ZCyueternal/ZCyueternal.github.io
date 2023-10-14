@@ -19,7 +19,7 @@ redirect_from:
   </li>
 
   <li>
-    <p><a href="">Federated Class-Incremental Learning with Prompting</a><br /><strong>Jiale Liu</strong>, Yu-Wei Zhan, Chong-Yu Zhang, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/abs/23xx.xxxxx">arxiv</a>]
+    <p><a href="">Federated Class-Incremental Learning with Prompting</a><br />Jiale Liu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/abs/23xx.xxxxx">arxiv</a>]
     <!-- [<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
     <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]--></p>
   </li>
