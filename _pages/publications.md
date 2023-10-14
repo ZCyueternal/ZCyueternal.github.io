@@ -14,9 +14,17 @@ redirect_from:
 ====== -->
 <ul>
   <li>
-    <p><a href="">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>]
+    <p><a href="https://doi.org/10.1145/3581783.3612119">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>]
     <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]--></p>
   </li>
+
+  <li>
+    <p><a href="">Federated Class-Incremental Learning with Prompting</a><br /><strong>Jiale Liu</strong>, Yu-Wei Zhan, Chong-Yu Zhang, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/abs/23xx.xxxxx">arxiv</a>]
+    <!-- [<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
+    <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]--></p>
+  </li>
+
+
 </ul>
 
 <!-- 2. **Yongxin Wang**, Zhen-Duo Chen, Xin Luo, Rui Li, and Xin-Shun Xu, "Fast cross-modal hashing with global and local similarity embedding," IEEE Trans. on Cybernetics, vol. 52, no. 10, pp. 10064-10077, 2022. [[pdf](https://doi.org/10.1109/TCYB.2021.3059886)] [[code](https://github.com/yxinwang/FCMH-Tcyb2021)] -->

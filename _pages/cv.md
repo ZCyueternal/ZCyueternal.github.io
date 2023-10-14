@@ -66,7 +66,9 @@ Awards
 * Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
 * CCF <strong>National Outstanding</strong> College Student (2017) 
 * <strong>Outstanding Graduate</strong> in Zhejiang Province (2018)  -->
-* <strong>Major Award</strong> in University of Jinan. (2019, 2020, 2021) (<strong>Top 0.06%</strong>)
+* <strong>Major Award</strong> in University of Jinan. (2019, 2020, and 2021, three times) (<strong>Top 0.06%</strong>)
+
+* <strong>Major Award</strong> in Shandong University. (2022)
 
 Skills
 ------
