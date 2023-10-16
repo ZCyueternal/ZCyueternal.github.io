@@ -60,7 +60,7 @@ Publications
             <span style="font-weight:normal;font-size:16px">arxiv, 2023.</span>
             <br>
             <span style="font-weight:normal;font-size:16px">
-            [<a href="https://arxiv.org/abs/23xx.xxxxx">arxiv</a>]</span>
+            [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]</span>
     </th>
   </tr> 
 
