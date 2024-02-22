@@ -10,11 +10,11 @@ redirect_from:
 
 Biography
 ------
-I am currently a Graduate student at  <a href="https://mima.sdu.edu.cn">MIMA</a> Lab, Shandong University, advised by Assistant Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>, co-advised by Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. Before that, I received my Bachelor’s degree in School of Information Science and Engineering, University of Jinan, Jinan, Shandong, China, in 2022, supervised by Associate Professor <a href ="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/a8ba7dfc-7b89-18f8-af5c-5c4705349712/status/1.html">Peng Wu</a>, <a href ="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/a8ba7dfc-7b89-18f8-af5c-5c4705349712/status/1.html">Jie Su</a>, and Professor [Xiuyang Zhao](https://ujnview.github.io/).
+I am currently a Graduate student at  <a href="https://mima.sdu.edu.cn">MIMA</a> Lab, Shandong University, advised by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>, co-advised by Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. Before that, I received my Bachelor’s degree in School of Information Science and Engineering, University of Jinan, Jinan, Shandong, China, in 2022, supervised by Associate Professor <a href ="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/a8ba7dfc-7b89-18f8-af5c-5c4705349712/status/1.html">Peng Wu</a>, <a href ="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/a8ba7dfc-7b89-18f8-af5c-5c4705349712/status/1.html">Jie Su</a>, and Professor [Xiuyang Zhao](https://ujnview.github.io/).
 
-My current research topics are Information Retrieval and deep learning, and I am mainly focused on multi-modal retrieval, online learning, incremental learning, and federated learning.
+My current research topics are Information Retrieval and Machine Learning. I mainly focus on hashing retrieval, especially online hashing and multi-modal retrieval. Besides, I am also open and willing to explore other vision tasks, e.g., incremental learning, prompt learning, vision-language pretraining, and federated learning. **If you are interested in my topics, please do not hesitate to reach out.**
 
-[^_^]: # Click [here](https://zcyueternal.github.io/files/not.pdf) to view my up-to-date CV.
+[^_^]:  Click [here](https://zcyueternal.github.io/files/not.pdf) to view my up-to-date CV.
 
 News
 ------

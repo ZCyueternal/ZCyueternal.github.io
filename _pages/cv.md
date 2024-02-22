@@ -31,9 +31,9 @@ Education
 
 Services
 ------
+<!-- * Reviewer for journals
+  * IEEE Transactions on ... -->
 
-* Reviewer for journals
-  * IEEE Transactions on ...
 
 * Reviewer for conferences
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
@@ -43,7 +43,7 @@ Services
 Teaching
 ------
 
-* Spring, 2023. TA in **Deep Learning**, instructed by Assistant Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a> and Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. 
+* Spring, 2023. TA in **Deep Learning**, instructed by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a> and Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. 
 
 
 <!-- Work experience
