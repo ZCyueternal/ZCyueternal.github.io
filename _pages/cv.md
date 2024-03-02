@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* CV (Curriculum Vitae) can be found [here](../ownhtml/cv_html_page.html).
+
 
 Education
 ------
@@ -78,8 +80,8 @@ Skills
 * Packet Tracer, Latex, Vim, Git
 
 
-More
+<!-- More
 ------
 * My Chinese blog can be found [here](https://www.zhihu.com/people/zhang-chong-yu-13).
-* cv html page can be found [here](../ownhtml/cv_html_page.html). 
+* cv html page can be found [here](../ownhtml/cv_html_page.html).  -->
 

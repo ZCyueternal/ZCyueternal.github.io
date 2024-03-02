@@ -24,6 +24,20 @@ redirect_from:
     </p>
   </li>
 
+  <li>
+    <p><a href="">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</a><br />Na Wang, <strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Zhen-Duo Chen, Peng-Fei Zhang, Xin-Shun Xu<br /> submitted to Pattern Recognition, 2024.<br />
+     <!-- [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>] -->
+    <!-- [<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
+    </p>
+  </li>
+
+  <li>
+    <p><a href="">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</a><br />Na Wang, <strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Zhen-Duo Chen, Peng-Fei Zhang, Xin-Shun Xu<br /> submitted to Pattern Recognition, 2024.<br />
+     <!-- [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>] -->
+    <!-- [<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
+    </p>
+  </li>
+
 
 </ul>
 
