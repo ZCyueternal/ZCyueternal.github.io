@@ -25,23 +25,23 @@ Education
 
 <!-- Services and Leadership
 ------
-* TMM, MVAP, TOMM Reviewer
 * AAAI 2022 Program Committee (PC) Member
 * International Artificial Intelligence Fair (IAIF) 2021 Judge
-* World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
-* China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022) -->
+* World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member -->
 
-Services
+Services & Leadership
 ------
 <!-- * Reviewer for journals
   * IEEE Transactions on ... -->
 
 
 * Reviewer for conferences
+  * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
   * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
-  
+* Datawhale Open-source Organization Propaganda Ambassador
+
 Teaching
 ------
 
