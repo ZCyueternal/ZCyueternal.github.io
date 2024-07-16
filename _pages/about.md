@@ -20,6 +20,7 @@ News
 ------
 
 <ul>
+  <li>[07/2024] One paper is accepted by ACM MM 2024. </li>
   <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
   <!-- <li>[xx/20xx] I am recognized as an outstanding student of Shandong University.</li>
   <li>[xx/20xx] I am awarded the Chinese National Scholarship.</li>
@@ -47,6 +48,21 @@ Publications
 </table>
 
 
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <!-- <img src="../images/framework-MED2N.png" width="350"/> -->
+      <img src="../images/miaomiao.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement</span><br>
+            <span style="font-size:16px">Ting Fu, Yu-Wei Zhan, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.</span><br>
+            <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>][<a href="../proj/23-SDOH-HC-MM/index.html">Project</a>] -->
+            <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]--></span>
+    </th>
+  </tr> 
+</table>
 
 <table>
 <tr>

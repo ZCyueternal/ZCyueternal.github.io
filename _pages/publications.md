@@ -19,6 +19,14 @@ redirect_from:
   </li>
 
   <li>
+    <p>FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement<br />Ting Fu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.<br /> 
+    <!-- [<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
+    </p>
+  </li>
+
+
+
+  <li>
     <p><a href="">Federated Class-Incremental Learning with Prompting</a><br />Jiale Liu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]
     <!-- [<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
     </p>
