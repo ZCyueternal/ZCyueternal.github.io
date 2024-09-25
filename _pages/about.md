@@ -56,7 +56,7 @@ Publications
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement</span><br>
-            <span style="font-size:16px">Ting Fu, Yu-Wei Zhan, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
+            Ting Fu, Yu-Wei Zhan, <span style="font-size:16px">Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.</span><br>
             <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>][<a href="../proj/23-SDOH-HC-MM/index.html">Project</a>] -->
             <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]-->
