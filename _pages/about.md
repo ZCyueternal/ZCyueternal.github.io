@@ -23,7 +23,6 @@ News
   <li>[07/2024] One paper is accepted by ACM MM 2024. </li>
   <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
   <!-- <li>[xx/20xx] I am recognized as an outstanding student of Shandong University.</li>
-  <li>[xx/20xx] I am awarded the Chinese National Scholarship.</li>
   <li>[xx/20xx] One paper is accepted by ACM MM 20xx.</li> -->
 </ul>
 
