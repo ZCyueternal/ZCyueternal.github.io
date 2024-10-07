@@ -48,7 +48,7 @@ Work experience
 * Summer 2024: Algorithm Intern
   * Bilibili Group
   * Ad Traffic Strategy Algorithm Engineer
-    * Ad/Video relevance modeling (Bert finetuning)
+    * Ad/Video relevance modeling (Language Model finetuning)
     * Ad multi-path recall system (bussiness tags recall, LLM-based recall, and search ads optimization)
 
 * Spring 2021: Research Assistant
