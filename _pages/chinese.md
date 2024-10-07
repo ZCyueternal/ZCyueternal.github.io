@@ -57,28 +57,30 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/miaomiao.png" width="350"/>
+      <img src="../images/mm_2023_framework.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Title of the paper</span><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Ting Fu</span>, Chong-Yu Zhang<span style="font-weight:normal">, XXX</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="#">论文</a>]</span>
+            <span style="font-size:18px">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</span><br>
+            <span style="font-size:16px">Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>][<a href="../proj/23-SDOH-HC-MM/index.html">Project</a>]
+            <!--[<a href="https://www.baidu.com/">Youtube Video</a>][<a href="https://www.baidu.com/">Bilibili Video</a>]--></span>
     </th>
   </tr> 
 </table>
 
 
+
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/miaomiao.png" width="350"/>
+      <img src="../images/mm_2024_framework.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Titile of the paper</span><br>
-            <span style="font-size:16px">Chong-Yu Zhang<span style="font-weight:normal">, XXX</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px"> [<a href="#">论文</a>][<a href="#">代码</a>][<a href="#">数据集</a>]</span>
+            <span style="font-size:18px">FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Ting Fu, Yu-Wei Zhan</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3664647.3681319" target="_blank">Paper</a>][<a href="https://github.com/FtAhub/FedCAFE" target="_blank">code</a>]</span>
     </th>
   </tr> 
 </table>

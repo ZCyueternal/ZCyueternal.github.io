@@ -29,7 +29,6 @@ Services & Leadership
 <!-- * Reviewer for journals
   * IEEE Transactions on ... -->
 
-
 * Reviewer for conferences
   * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
