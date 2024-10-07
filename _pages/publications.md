@@ -10,8 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Selected Publications
-====== -->
+
 <ul>
   <li>
     <p><a href="https://doi.org/10.1145/3581783.3612119">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</a><br /><strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>]
@@ -19,8 +18,8 @@ redirect_from:
   </li>
 
   <li>
-    <p>FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement<br />Ting Fu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.<br /> 
-    <!-- [<a href="https://doi.org/10.1145/3581783.3612119">Paper</a>][<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
+    <p><a href="https://doi.org/10.1145/3664647.3681319">FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement</a><br />Ting Fu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.<br /> 
+    [<a href="https://doi.org/10.1145/3664647.3681319" target="_blank">Paper</a>][<a href="https://github.com/FtAhub/FedCAFE" target="_blank">code</a>]
     </p>
   </li>
 
@@ -28,7 +27,6 @@ redirect_from:
 
   <li>
     <p><a href="">Federated Class-Incremental Learning with Prompting</a><br />Jiale Liu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]
-    <!-- [<a href="https://github.com/ZCyueternal/SDOH-HC">Code</a>] -->
     </p>
   </li>
 
