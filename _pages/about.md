@@ -32,8 +32,7 @@ Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <!-- <img src="../images/framework-MED2N.png" width="350"/> -->
-      <img src="../images/miaomiao.png" width="350"/>
+      <img src="../images/mm_2023_framework.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval</span><br>
@@ -49,8 +48,7 @@ Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <!-- <img src="../images/framework-MED2N.png" width="350"/> -->
-      <img src="../images/miaomiao.png" width="350"/>
+      <img src="../images/mm_2024_framework.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement</span><br>
