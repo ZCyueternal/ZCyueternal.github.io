@@ -24,24 +24,6 @@ Education
 
 
 
-Services & Leadership
-------
-<!-- * Reviewer for journals
-  * IEEE Transactions on ... -->
-
-* Reviewer for conferences
-  * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
-  * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
-  * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
-  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
-
-Teaching
-------
-
-* Spring, 2023. TA in **Deep Learning**, instructed by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>. 
-
-
-
 Work experience
 ------
 * Summer 2024: Algorithm Intern
@@ -56,12 +38,34 @@ Work experience
     * The dual-feature attention mechanism fuses optical remote sensing images and DSM elevation information using spatial and channel attention. Multi-level features are extracted through a pyramid attention mechanism to achieve precise segmentation.
 
 
+
+Teaching
+------
+
+* Spring, 2023. TA in **Deep Learning**, instructed by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>. 
+
+
+
 Awards
 ------
 <!-- * XXX social Scholarship (2024)-->
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Graduate Freshman Scholarship, Shandong University (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2022)
+
+
+Services & Leadership
+------
+<!-- * Reviewer for journals
+  * IEEE Transactions on ... -->
+
+* Reviewer for conferences
+  * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
+  * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
+  * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
+  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
+
+
 
 Skills
 ------

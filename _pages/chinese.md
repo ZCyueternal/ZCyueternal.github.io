@@ -25,33 +25,6 @@ redirect_from:
 
 
 
-学术任职
-------
-* 审稿人：ACM MM 2024, ICME 2023, ECML-PKDD 2023, PAKDD 2023.
-
-
-工作经历
------
-* 上海哔哩哔哩科技有限公司-算法实习 (2024.6-2024.9)
-  * 商业技术中心-商业算法部-广告流量策略算法工程师
-    * 广告/稿件 相关性建模 (语言模型微调)
-    * 广告多路召回系统 (新增商业标签相关性召回，基于LLM的用户行为召回，搜索广告优化)
-
-* 中国科学院电子所-科研助理 (2021.2-2021.5)
-  * 复杂环境下的遥感图像语义分割
-    * 双路特征注意力融合光学遥感图像和DSM高程分支信息，使用空间注意力和通道注意力，通过金字塔注意力机制提取多级特征，实现精细的分割效果。
-
-
-奖项荣誉
-------
-<!-- * XXX社会奖学金 (2024)-->
-* 研究生一等奖学金（2023, 2024）
-* 研究生新生奖学金 (2022)
-* 本科生一等奖学金（2019-2022）
-
-
-
-
 科研工作
 ------
 <table style="width:100%">
@@ -84,6 +57,58 @@ redirect_from:
     </th>
   </tr> 
 </table>
+
+
+
+<table>
+<tr>
+    <th width="30%">
+      <img src="../images/ljl_2023_FCILPT_framework.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Federated Class-Incremental Learning with Prompting</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Jiale Liu, Yu-Wei Zhan</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">arxiv, 2023.</span>
+            <br>
+            <span style="font-weight:normal;font-size:16px">
+            [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]</span>
+    </th>
+  </tr> 
+
+</table>
+
+
+
+
+工作经历
+-----
+* 上海哔哩哔哩科技有限公司-算法实习 (2024.6-2024.9)
+  * 商业技术中心-商业算法部-广告流量策略算法工程师
+    * 广告/稿件 相关性建模 (语言模型微调)
+    * 广告多路召回系统 (新增商业标签相关性召回，基于LLM的用户行为召回，搜索广告优化)
+
+* 中国科学院电子所-科研助理 (2021.2-2021.5)
+  * 复杂环境下的遥感图像语义分割
+    * 双路特征注意力融合光学遥感图像和DSM高程分支信息，使用空间注意力和通道注意力，通过金字塔注意力机制提取多级特征，实现精细的分割效果。
+
+
+奖项荣誉
+------
+<!-- * XXX社会奖学金 (2024)-->
+* 研究生一等奖学金（2023, 2024）
+* 研究生新生奖学金 (2022)
+* 本科生一等奖学金（2019-2022）
+
+
+
+
+
+
+
+
+学术任职
+------
+* 审稿人：ACM MM 2024, ICME 2023, ECML-PKDD 2023, PAKDD 2023.
 
 
 学生工作
