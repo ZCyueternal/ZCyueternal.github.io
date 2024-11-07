@@ -48,7 +48,7 @@ Teaching
 
 Awards
 ------
-<!-- * XXX social Scholarship (2024)-->
+* Weichai Power Scholarship (2024)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Graduate Freshman Scholarship, Shandong University (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2022)
