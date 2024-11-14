@@ -17,7 +17,7 @@ My current research topics are **Machine Learning** and **Information Retrieval*
 **If you are interested in my topics, please do not hesitate to reach out.**
 
 
-My up-to-date CV (Curriculum Vitae) can be found [here](../ownhtml/cv_html_page.html).
+My CV (Curriculum Vitae) can be found in [[new_CV](../ownhtml/Curriculum_Vitae_Chongyu_Zhang.pdf)] [[old_digital_CV](../ownhtml/cv_html_page.html)] .
 
 News
 ------

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* CV (Curriculum Vitae) can be found [here](../ownhtml/cv_html_page.html).
+* CV (Curriculum Vitae) can be found in [[new_CV](../ownhtml/Curriculum_Vitae_Chongyu_Zhang.pdf)] [[old_digital_CV](../ownhtml/cv_html_page.html)].
 
 
 Education
