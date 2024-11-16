@@ -45,6 +45,9 @@ Teaching
 * Spring, 2023. TA in **Deep Learning**, instructed by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>. 
 
 
+Mentoring
+------
+* Junjie Peng, 2023.10-present. (SDU -> SYSU)
 
 Awards
 ------
