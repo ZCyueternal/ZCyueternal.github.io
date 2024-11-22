@@ -15,11 +15,11 @@ redirect_from:
 Education
 ------
 * M.S.: Shandong University (2022-)
-  * GPA: N/A (<strong>Top 3</strong>)
+  * GPA: 89.65/100 (<strong>Top 3</strong>)
   * Artificial Intelligence
   * Machine Learning, especially Learning to Hash, Multi-modal Information Retrieval, Online Learning, and Vision-Language Cross-modal Learning.
 * B.S.: University of Jinan (2018-2022)
-  * GPA: 4.55/5.0 (<strong>Top 3</strong>)
+  * GPA: 90.61/100; 4.55/5.0 (<strong>Top 3</strong>)
   * Major: Network Engineering
 
 
@@ -51,7 +51,7 @@ Mentoring
 
 Awards
 ------
-* Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 gradauted students in SDU, 2024</span>)
+* Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Graduate Freshman Scholarship, Shandong University (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2021)

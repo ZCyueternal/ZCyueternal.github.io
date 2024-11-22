@@ -15,12 +15,12 @@ redirect_from:
 ------
 * <strong>山东大学</strong> (2022-)
   * 硕士生
-  * GPA: N/A (<strong>Top3</strong>)
+  * GPA: 89.65/100 (<strong>Top3</strong>)
   * 专业: 人工智能
   * 研究方向：机器学习，尤其是哈希学习、多媒体信息检索、在线学习、视觉语言跨模态学习
 * <strong>济南大学</strong> (2018-2022)
   * 工学学士
-  * GPA: 4.55/5.0 (<strong>Top3</strong>)
+  * GPA: 90.61/100; 4.55/5.0 (<strong>Top3</strong>)
   * 专业: 网络工程
 
 
