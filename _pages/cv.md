@@ -54,6 +54,7 @@ Awards
 * Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Graduate Freshman Scholarship, Shandong University (2022)
+* Oustanding Undergraduate Thesis Award, University of Jinan (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2021)
 
 

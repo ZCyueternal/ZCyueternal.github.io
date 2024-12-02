@@ -15,8 +15,9 @@ Welcome! I am currently in my final year as a Graduate student majoring in Artif
 My current research topics are **Machine Learning** and **Multimedia Retrieval**. I mainly focus on retrieval tasks, especially online hashing and image/cross-modal retrieval. Besides, I am also open and willing to explore other tasks, e.g., **vision-language models**, **LLMs**, test-time adaptation, incremental learning, prompt learning, and federated learning. 
 <br>
 **If you are interested in my topics, please do not hesitate to reach out.**
-
-
+<br>
+<span style="color:blue"> I am currently seeking a PhD position for Fall 2025. If you're interested or have any opportunities available, feel free to drop me an email. </span>
+<br>
 My CV (Curriculum Vitae) can be found in [[new_CV](../ownhtml/Curriculum_Vitae_Chongyu_Zhang.pdf)] [[old_digital_CV](../ownhtml/cv_html_page.html)] .
 
 News
