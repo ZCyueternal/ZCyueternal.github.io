@@ -53,6 +53,7 @@ Awards
 ------
 * Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
+* Outstanding Graduate Student (All-Round Excellent Student) (2023, 2024)
 * Graduate Freshman Scholarship, Shandong University (2022)
 * Oustanding Undergraduate Thesis Award, University of Jinan (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2021)
@@ -60,8 +61,9 @@ Awards
 
 Services & Leadership
 ------
-<!-- * Reviewer for journals
-  * IEEE Transactions on ... -->
+* Reviewer for journals
+  * Applied Intelligence
+
 
 * Reviewer for conferences
   * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
@@ -75,5 +77,5 @@ Skills
 ------
 * **Python**, **Pytorch**
 * **Matlab**
-* Packet Tracer, Latex, Vim, Git
+* Packet Tracer, Latex, Vim, Draw.io, Git, ChatGPT
 

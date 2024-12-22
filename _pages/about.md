@@ -16,8 +16,10 @@ My current research topics are **Machine Learning** and **Multimedia Retrieval**
 <br>
 **If you are interested in my topics, please do not hesitate to reach out.**
 <br>
+
 <span style="color:blue"> I am currently seeking a PhD position for Fall 2025. If you're interested or have any opportunities available, feel free to drop me an email. </span>
 <br>
+
 My CV (Curriculum Vitae) can be found in [[new_CV](../ownhtml/Curriculum_Vitae_Chongyu_Zhang.pdf)] [[old_digital_CV](../ownhtml/cv_html_page.html)] .
 
 News
