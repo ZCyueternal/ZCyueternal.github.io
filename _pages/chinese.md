@@ -110,7 +110,7 @@ redirect_from:
 ------
 * 审稿人：
   * 期刊：Applied Intelligence.
-  * 会议：ACM MM 2024, ICME 2023, ECML-PKDD 2023, PAKDD 2023.
+  * 会议：ACM MM 2024, ICME 2023, ECML-PKDD 2023, IJCNN 2025, PAKDD 2023.
 
 
 学生工作

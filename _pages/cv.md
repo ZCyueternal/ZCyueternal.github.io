@@ -68,8 +68,9 @@ Services & Leadership
 * Reviewer for conferences
   * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
-  * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
+  * International Joint Conference on Neural Networks (**IJCNN**) 2025 - Reviewer
+  * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
 
 
 
