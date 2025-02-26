@@ -96,6 +96,7 @@ redirect_from:
 
 奖项荣誉
 ------
+* 山东大学优秀毕业生 (2025)
 * 潍柴动力奖学金 (2024)(<span style="color: blue;">山东大学仅51名硕博研究生获得</span>)
 * 研究生一等奖学金 (2023, 2024)
 * 优秀研究生 (三好学生) (2023, 2024)
@@ -110,7 +111,7 @@ redirect_from:
 ------
 * 审稿人：
   * 期刊：Applied Intelligence.
-  * 会议：ACM MM 2024, ICME 2023, ECML-PKDD 2023, IJCNN 2025, PAKDD 2023.
+  * 会议：KDD 2025, ACM MM 2024, ICME 2023, ECML-PKDD 2023, IJCNN 2025, PAKDD 2023.
 
 
 学生工作

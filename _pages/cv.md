@@ -51,6 +51,7 @@ Mentoring
 
 Awards
 ------
+* Outstanding Graduate Student of Shandong University (2025)
 * Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Outstanding Graduate Student (All-Round Excellent Student) (2023, 2024)
@@ -66,6 +67,7 @@ Services & Leadership
 
 
 * Reviewer for conferences
+  * ACM SIGKDD(**KDD**) 2025 - Reviewer
   * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
