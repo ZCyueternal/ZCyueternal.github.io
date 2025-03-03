@@ -16,7 +16,7 @@ My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html
 
 Education
 ------
-* M.S.: Shandong University (2022-)
+* M.S.: Shandong University (2022-2025)
   * GPA: 89.65/100 (<strong>Top 3</strong>)
   * Artificial Intelligence
   * Machine Learning, especially Learning to Hash, Multi-modal Information Retrieval, Online Learning, and Vision-Language Cross-modal Learning.
