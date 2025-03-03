@@ -13,7 +13,7 @@ redirect_from:
 
 教育背景
 ------
-* <strong>山东大学</strong> (2022-)
+* <strong>山东大学</strong> (2022-2025)
   * 硕士生
   * GPA: 89.65/100 (<strong>Top3</strong>)
   * 专业: 人工智能
