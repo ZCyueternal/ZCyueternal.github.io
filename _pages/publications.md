@@ -23,6 +23,11 @@ redirect_from:
     </p>
   </li>
 
+  <li>
+    <p><a href="">Class-Aware Prompting for Federated Few-Shot Class-Incremental Learning</a><br />Fang-Yi Liang, Yu-Wei Zhan, Jiale Liu, <strong>Chong-Yu Zhang</strong>, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu<br /> IEEE Transactions on Circuits and Systems for Video Technology (<strong>IEEE TCSVT</strong>), 2025.<br /> [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]
+    </p>
+  </li>
+
 
 
   <li>

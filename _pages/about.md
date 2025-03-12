@@ -28,8 +28,9 @@ News
 ------
 
 <ul>
-  <li>[07/2024] One paper is accepted by ACM MM 2024. </li>
-  <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
+  <li>[03/2025] One paper is accepted by IEEE TCSVT (JCR Q1). </li>
+  <li>[07/2024] One paper is accepted by ACM MM 2024 (CCF-A). </li>
+  <li>[07/2023] One paper is accepted by ACM MM 2023 (CCF-A). </li>
 </ul>
 
 
@@ -62,6 +63,22 @@ Publications
             <span style="font-size:16px"><span style="font-weight:normal">Ting Fu, Yu-Wei Zhan</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3664647.3681319" target="_blank">Paper</a>][<a href="https://github.com/FtAhub/FedCAFE" target="_blank">code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/miaomiao.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Class-Aware Prompting for Federated Few-Shot Class-Incremental Learning</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Fang-Yi Liang, Yu-Wei Zhan, Jiale Liu</span>, Chong-Yu Zhang<span style="font-weight:normal">, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">IEEE Transactions on Circuits and Systems for Video Technology (<strong>IEEE TCSVT</strong>), 2025.</span><br>
+            <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3664647.3681319" target="_blank">Paper</a>][<a href="https://github.com/FtAhub/FedCAFE" target="_blank">code</a>]</span> -->
     </th>
   </tr> 
 </table>
