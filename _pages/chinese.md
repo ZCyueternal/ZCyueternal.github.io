@@ -68,7 +68,7 @@ redirect_from:
             <span style="font-size:18px">Class-Aware Prompting for Federated Few-Shot Class-Incremental Learning</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Fang-Yi Liang, Yu-Wei Zhan, Jiale Liu</span>, Chong-Yu Zhang<span style="font-weight:normal">, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">IEEE Transactions on Circuits and Systems for Video Technology (<strong>IEEE TCSVT</strong>), 2025.</span><br>
-            <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3664647.3681319" target="_blank">Paper</a>][<a href="https://github.com/FtAhub/FedCAFE" target="_blank">code</a>]</span> -->
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/document/10926539" target="_blank">Paper</a>][<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>]</span>
     </th>
   </tr> 
 </table>
