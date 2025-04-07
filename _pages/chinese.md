@@ -74,6 +74,20 @@ redirect_from:
 </table>
 
 
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/miaomiao.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">DGPrompt: Dual-Guidance Prompts Generation for Vision-Language Models</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, Li-Jun Zhao</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px"><strong>Neural Networks</strong>, 2025.</span><br>
+            <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/document/10926539" target="_blank">Paper</a>][<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>]</span> -->
+    </th>
+  </tr> 
+</table>
+
 
 
 <table>

@@ -69,6 +69,7 @@ Services & Leadership
 
 
 * Reviewer for conferences
+  * ACM International Conference on Multimedia (**ACM MM**) 2025 - Reviewer
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining(**KDD**) 2025 - Reviewer
   * ACM International Conference on Multimedia (**ACM MM**) 2024 - Reviewer
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer

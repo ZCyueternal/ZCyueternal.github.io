@@ -30,6 +30,12 @@ redirect_from:
   </li>
 
 
+  <li>
+    <p><a href="">DGPrompt: Dual-Guidance Prompts Generation for Vision-Language Models</a><br />Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, Li-Jun Zhao, <strong>Chong-Yu Zhang</strong>, Xin Luo, Xin-Shun Xu<br /> <strong>Neural Networks</strong>, 2025.<br /> 
+    </p>
+  </li>
+
+
 
   <li>
     <p><a href="">Federated Class-Incremental Learning with Prompting</a><br />Jiale Liu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]
