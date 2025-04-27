@@ -32,6 +32,8 @@ redirect_from:
 
   <li>
     <p><a href="">DGPrompt: Dual-Guidance Prompts Generation for Vision-Language Models</a><br />Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, Li-Jun Zhao, <strong>Chong-Yu Zhang</strong>, Xin Luo, Xin-Shun Xu<br /> <strong>Neural Networks</strong>, 2025.<br /> 
+    [<a href="https://doi.org/10.1016/j.neunet.2025.107472" target="_blank">pdf</a>]
+    <!-- [<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>] -->
     </p>
   </li>
 
@@ -41,6 +43,22 @@ redirect_from:
     <p><a href="">Federated Class-Incremental Learning with Prompting</a><br />Jiale Liu, Yu-Wei Zhan, <strong>Chong-Yu Zhang</strong>, Xin Luo, Zhen-Duo Chen, Yinwei Wei, Xin-Shun Xu<br /> arxiv, 2023.<br /> [<a href="https://arxiv.org/pdf/2310.08948.pdf">arxiv</a>]
     </p>
   </li>
+
+  <l1>
+    <p>一种缓解灾难性遗忘的在线哈希检索方法及系统。授权号: ZL 202310368630.3 <br />Xin Luo, Chong-Yu Zhang, Zhen-Duo Chen, Xin-Shun Xu
+    </p>
+  </l1>
+
+  <l1>
+  <p>基于流形排序学习的在线无监督跨模态检索方法及系统。授权号: ZL 202310867996.5 <br />Xin Luo, Chong-Yu Zhang, Xin-Shun Xu
+  </p>
+  </l1>
+
+  <l1>
+  <p>基于自步学习加权的在线图像哈希检索方法及系统。授权号: ZL 202410718175.X <br />Xin Luo, Chong-Yu Zhang, Zhen-Duo Chen, Xin-Shun Xu
+  </p>
+  </l1>
+
 
   <!--
   <li>
@@ -54,7 +72,7 @@ redirect_from:
 
 
 
-Above papers are selected publications. More information can be found in my [CV](../ownhtml/cv_html_page.html).
+<!-- Above papers are selected publications. More information can be found in my [CV](../ownhtml/cv_html_page.html). -->
 
 
 <br>

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- * CV (Curriculum Vitae) can be found in [[new_CV](../ownhtml/Curriculum_Vitae_Chongyu_Zhang.pdf)] [[old_digital_CV](../ownhtml/cv_html_page.html)]. -->
+
 
 My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)] .
 
@@ -19,7 +19,7 @@ Education
 * M.S.: Shandong University (2022-2025)
   * GPA: 89.65/100 (<strong>Top 3</strong>)
   * Artificial Intelligence
-  * Machine Learning, especially Learning to Hash, Multi-modal Information Retrieval, Online Learning, and Vision-Language Cross-modal Learning.
+  * Machine Learning, especially Learning to Hash, Multi-modal Retrieval, Online Learning, Federated Learning, and Vision-Language model.
 * B.S.: University of Jinan (2018-2022)
   * GPA: 90.61/100; 4.55/5.0 (<strong>Top 3</strong>)
   * Major: Network Engineering
@@ -33,6 +33,8 @@ Work experience
   * Ad Traffic Strategy Algorithm Engineer
     * Ad/Video relevance modeling (Language Model finetuning)
     * Ad multi-path recall system (bussiness tags recall, LLM-based recall, and search ads optimization)
+    * Cold-start Advertising Recall
+    * Parameter Optimization in Ad Recall Phase
 
 * Spring 2021: Research Assistant
   * Institute of Electrics, Chinese Academy of Sciences
@@ -56,7 +58,7 @@ Awards
 * Outstanding Graduate, Shandong University (2025) (<span style="color: blue;">山东大学优秀毕业生</span>)
 * Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
-* Outstanding Graduate Student (All-Round Excellent Student) (2023, 2024)
+* Outstanding Graduate Student (All-Round Excellent Student) (2023, 2024) (<span style="color: blue;">山东大学优秀研究生</span>)
 * Graduate Freshman Scholarship, Shandong University (2022)
 * Oustanding Undergraduate Thesis Award, University of Jinan (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2021)
@@ -83,5 +85,5 @@ Skills
 ------
 * **Python**, **Pytorch**
 * **Matlab**
-* Packet Tracer, Latex, Vim, Draw.io, Git, ChatGPT
+* Latex, Vim, Draw.io, Git, **ChatGPT**
 

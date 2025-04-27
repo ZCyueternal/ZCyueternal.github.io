@@ -12,7 +12,9 @@ Biography
 ------
 Welcome! I am currently in my final year as a Graduate student majoring in Artificial Intelligence at <a href="https://mima.sdu.edu.cn">MIMA</a> Lab, Shandong University, advised by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>, co-advised by Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. Before that, I received my Bachelor’s degree in School of Information Science and Engineering, University of Jinan, Jinan, Shandong, China, in 2022, supervised by Associate Professor <a href ="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/a8ba7dfc-7b89-18f8-af5c-5c4705349712/status/1.html">Peng Wu</a>, <a href ="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/a8ba7dfc-7b89-18f8-af5c-5c4705349712/status/1.html">Jie Su</a>, and Professor [Xiuyang Zhao](https://ujnview.github.io/). I deeply appreciate the dedicated guidance and support.
 
-My current research topics are **Machine Learning** and **Multimedia Retrieval**. I mainly focus on retrieval tasks, especially online hashing and image/cross-modal retrieval. Besides, I am also open and willing to explore other tasks, e.g., **vision-language models**, **LLMs**, test-time adaptation, incremental learning, prompt learning, and federated learning. 
+My research topics are **Machine Learning** and **Multimedia Retrieval**. I mainly focus on retrieval tasks during my master period, especially online hashing and image/cross-modal retrieval. Currently, I am also exploring Multimodal LLM and Long Video Understanding.
+
+<!-- Besides, I am also open and willing to explore other tasks, e.g., **vision-language models**, **LLMs**, test-time adaptation, incremental learning, prompt learning, and federated learning.  -->
 <br>
 **If you are interested in my topics, please do not hesitate to reach out.**
 <br>
@@ -20,7 +22,7 @@ My current research topics are **Machine Learning** and **Multimedia Retrieval**
 <!-- <span style="color:blue"> I am currently seeking a PhD position for Fall 2025. If you're interested or have any opportunities available, feel free to drop me an email. </span> -->
 <br>
 
-My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)] .
+<!-- My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)] . -->
 <!-- [[new_CV](../ownhtml/Curriculum_Vitae_Chongyu_Zhang.pdf)]  -->
 
 
@@ -29,6 +31,7 @@ News
 
 <ul>
   <li>[04/2025] One paper is accepted by Neural Networks (JCR Q1). </li>
+  <li>[03/2025] I am recognized as an Outstanding Graduate of Shandong University. </li>
   <li>[03/2025] One paper is accepted by IEEE TCSVT (JCR Q1). </li>
   <li>[07/2024] One paper is accepted by ACM MM 2024 (CCF-A). </li>
   <li>[07/2023] One paper is accepted by ACM MM 2023 (CCF-A). </li>
@@ -94,7 +97,7 @@ Publications
             <span style="font-size:18px">DGPrompt: Dual-Guidance Prompts Generation for Vision-Language Models</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, Li-Jun Zhao</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px"><strong>Neural Networks</strong>, 2025.</span><br>
-            <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/document/10926539" target="_blank">Paper</a>][<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>]</span> -->
+            <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1016/j.neunet.2025.107472" target="_blank">pdf</a>]</span>
     </th>
   </tr> 
 </table>

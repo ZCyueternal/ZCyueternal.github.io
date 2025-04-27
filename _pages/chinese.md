@@ -155,4 +155,4 @@ redirect_from:
 专业能力
 ------
 * 编程语言：**Python**, **Pytorch**, **Matlab**
-* 专业工具：Latex, Vim, Draw.io, Git, ChatGPT
+* 专业工具：Latex, Vim, Draw.io, Git, **ChatGPT**
