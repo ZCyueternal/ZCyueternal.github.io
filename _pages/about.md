@@ -30,6 +30,7 @@ News
 ------
 
 <ul>
+  <li>[05/2025] One paper is accepted by Knowledge-Based Systems (KBS) (JCR Q1). </li>
   <li>[04/2025] One paper is accepted by Neural Networks (JCR Q1). </li>
   <li>[03/2025] I am recognized as an Outstanding Graduate of Shandong University. </li>
   <li>[03/2025] One paper is accepted by IEEE TCSVT (JCR Q1). </li>
@@ -71,6 +72,20 @@ Publications
   </tr> 
 </table>
 
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/miaomiao.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">OH-CMH: Towards Cross-Modal Hashing for Streaming Data with Hierarchical Labels and Label Incremental Scenario</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Junjie Peng</span>, Chong-Yu Zhang<span style="font-weight:normal">, Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">Knowledge-Based Systems(<strong>KBS</strong>), 2025.</span><br>
+            <!-- <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/document/10926539" target="_blank">Paper</a>][<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>]</span> -->
+    </th>
+  </tr> 
+</table>
 
 
 <table style="width:100%">
