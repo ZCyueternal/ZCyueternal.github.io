@@ -23,6 +23,15 @@ redirect_from:
     </p>
   </li>
 
+
+  <li>
+    <p><a href="">OH-CMH: Towards Cross-Modal Hashing for Streaming Data with Hierarchical Labels and Label Incremental Scenario</a><br />Junjie Peng, <strong>Chong-Yu Zhang</strong>, Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu<br /> Knowledge-Based Systems(<strong>KBS</strong>), 2025.<br /> 
+    <!-- [<a href="https://doi.org/10.1016/j.neunet.2025.107472" target="_blank">pdf</a>] -->
+    <!-- [<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>] -->
+    </p>
+  </li>
+
+
   <li>
     <p><a href="">Class-Aware Prompting for Federated Few-Shot Class-Incremental Learning</a><br />Fang-Yi Liang, Yu-Wei Zhan, Jiale Liu, <strong>Chong-Yu Zhang</strong>, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu<br /> IEEE Transactions on Circuits and Systems for Video Technology (<strong>IEEE TCSVT</strong>), 2025.<br />
     [<a href="https://ieeexplore.ieee.org/document/10926539" target="_blank">pdf</a>][<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>]

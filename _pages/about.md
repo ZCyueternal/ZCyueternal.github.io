@@ -30,7 +30,7 @@ News
 ------
 
 <ul>
-  <li>[05/2025] One paper is accepted by Knowledge-Based Systems (KBS) (JCR Q1). </li>
+  <li>[05/2025] One paper is accepted by Knowledge-Based Systems (KBS) (JCR Q1). Congrats to Junjie. </li>
   <li>[04/2025] One paper is accepted by Neural Networks (JCR Q1). </li>
   <li>[03/2025] I am recognized as an Outstanding Graduate of Shandong University. </li>
   <li>[03/2025] One paper is accepted by IEEE TCSVT (JCR Q1). </li>
