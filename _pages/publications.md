@@ -25,9 +25,7 @@ redirect_from:
 
 
   <li>
-    <p><a href="">OH-CMH: Towards Cross-Modal Hashing for Streaming Data with Hierarchical Labels and Label Incremental Scenario</a><br />Junjie Peng, <strong>Chong-Yu Zhang</strong>, Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu<br /> Knowledge-Based Systems(<strong>KBS</strong>), 2025.<br /> 
-    <!-- [<a href="https://doi.org/10.1016/j.neunet.2025.107472" target="_blank">pdf</a>] -->
-    <!-- [<a href="https://github.com/FangyiLiang/FedCAP" target="_blank">code</a>] -->
+    <p><a href="">OH-CMH: Towards Cross-Modal Hashing for Streaming Data with Hierarchical Labels and Label Incremental Scenario</a><br />Junjie Peng, <strong>Chong-Yu Zhang</strong>, Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu<br /> Knowledge-Based Systems(<strong>KBS</strong>), 2025.<br /> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125008421" target="_blank">Paper</a>][<a href="https://github.com/pjunjie/OH-CMH" target="_blank">code</a>]
     </p>
   </li>
 
