@@ -30,6 +30,7 @@ News
 ------
 
 <ul>
+  <li>[10/2025] One paper is accepted by Pattern Recognition (PR) (JCR Q1, CCF-B). </li>
   <li>[05/2025] One paper is accepted by Knowledge-Based Systems (KBS) (JCR Q1). Congrats to <a href="https://pjunjie.github.io">Junjie</a>. </li>
   <li>[04/2025] One paper is accepted by Neural Networks (JCR Q1). </li>
   <li>[03/2025] I am recognized as an Outstanding Graduate of Shandong University. </li>
