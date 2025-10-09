@@ -23,6 +23,10 @@ redirect_from:
     </p>
   </li>
 
+  <li>
+    <p><a href="">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</a><br />Na Wang, <strong>Chong-Yu Zhang</strong>, Yu-Wei Zhan, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu<br /> Pattern Recognition(<strong>PR</strong>), 2025.<br /> [<a href="" target="_blank">Paper</a>][<a href="https://github.com/SDUwn/DCWOH/" target="_blank">code</a>]
+    </p>
+  </li>
 
   <li>
     <p><a href="">OH-CMH: Towards Cross-Modal Hashing for Streaming Data with Hierarchical Labels and Label Incremental Scenario</a><br />Junjie Peng, <strong>Chong-Yu Zhang</strong>, Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu<br /> Knowledge-Based Systems(<strong>KBS</strong>), 2025.<br /> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125008421" target="_blank">Paper</a>][<a href="https://github.com/pjunjie/OH-CMH" target="_blank">code</a>]
