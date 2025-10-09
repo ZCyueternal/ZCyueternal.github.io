@@ -29,7 +29,7 @@ Education
 Work experience
 ------
 * Summer 2024: Algorithm Intern
-  * Bilibili Group
+  * Bilibili Group (哔哩哔哩)
   * Ad Traffic Strategy Algorithm Engineer
     * Ad/Video relevance modeling (Language Model finetuning)
     * Ad multi-path recall system (bussiness tags recall, LLM-based recall, and search ads optimization)
@@ -37,7 +37,7 @@ Work experience
     * Parameter Optimization in Ad Recall Phase
 
 * Spring 2021: Research Assistant
-  * Institute of Electrics, Chinese Academy of Sciences
+  * Institute of Electrics, Chinese Academy of Sciences (中科院电子所)
   * Satellite remote sensing image semantic segmentation
     * The dual-feature attention mechanism fuses optical remote sensing images and DSM elevation information using spatial and channel attention. Multi-level features are extracted through a pyramid attention mechanism to achieve precise segmentation.
 
@@ -76,6 +76,7 @@ Services & Leadership
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
   * International Joint Conference on Neural Networks (**IJCNN**) 2025 - Reviewer
+  * ACM Multimedia Asia Conference (**MM Asia**) 2025 - Reviewer
   * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**) 2023 - Reviewer
 
 
