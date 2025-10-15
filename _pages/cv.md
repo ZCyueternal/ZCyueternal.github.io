@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)] .
+My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)] (Not up to date!!!).
 
 
 Education
@@ -29,7 +29,7 @@ Education
 Work experience
 ------
 * Summer 2024: Algorithm Intern
-  * Bilibili Group (哔哩哔哩)
+  * Bilibili Group (上海哔哩哔哩科技有限公司)
   * Ad Traffic Strategy Algorithm Engineer
     * Ad/Video relevance modeling (Language Model finetuning)
     * Ad multi-path recall system (bussiness tags recall, LLM-based recall, and search ads optimization)
@@ -37,7 +37,7 @@ Work experience
     * Parameter Optimization in Ad Recall Phase
 
 * Spring 2021: Research Assistant
-  * Institute of Electrics, Chinese Academy of Sciences (中科院电子所)
+  * Institute of Electrics, Chinese Academy of Sciences (中国科学院电子所)
   * Satellite remote sensing image semantic segmentation
     * The dual-feature attention mechanism fuses optical remote sensing images and DSM elevation information using spatial and channel attention. Multi-level features are extracted through a pyramid attention mechanism to achieve precise segmentation.
 
@@ -51,12 +51,14 @@ Teaching
 
 Mentoring
 ------
-* Junjie Peng, 2023.10-present. (SDU -> SYSU)
+* Junjie Peng, 2023.10-2025.6. (SDU -> SYSU)
+* Xuanmiao Mou, 2024.10-2025.6. (SDU -> USTC)
 
 Awards
 ------
+* Outstanding Master’s Degree Thesis Award of the “Inspur Rising Star Cup”, Shandong Computer Federation. (2025) (山东计算机学会“浪潮新星杯”优秀硕士学位论文奖, <span style="color: blue;">Only 28 recipients selected, 2025</span>)
 * Outstanding Graduate, Shandong University (2025) (<span style="color: blue;">山东大学优秀毕业生</span>)
-* Weichai Power Scholarship (2024)(潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
+* Weichai Power Scholarship (2024) (潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Outstanding Graduate Student (All-Round Excellent Student) (2023, 2024) (<span style="color: blue;">山东大学优秀研究生</span>)
 * Graduate Freshman Scholarship, Shandong University (2022)
@@ -84,6 +86,6 @@ Services & Leadership
 Skills
 ------
 * **Python**, **Pytorch**
-* **Matlab**
-* Latex, Vim, Draw.io, Git, **ChatGPT**
+* **Matlab**, **Java**
+* Latex, Shell, Vim, Draw.io, Git, **ChatGPT**
 

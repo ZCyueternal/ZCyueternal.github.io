@@ -30,6 +30,7 @@ News
 ------
 
 <ul>
+  <li>[10/2025] I was awarded the Outstanding Master’s Degree Thesis Award of the “Inspur Rising Star Cup” by the Shandong Computer Federation. (Only 28 recipients selected in 2025). </li>
   <li>[10/2025] One paper is accepted by Pattern Recognition (PR) (JCR Q1, CCF-B). </li>
   <li>[05/2025] One paper is accepted by Knowledge-Based Systems (KBS) (JCR Q1). Congrats to <a href="https://pjunjie.github.io">Junjie</a>. </li>
   <li>[04/2025] One paper is accepted by Neural Networks (JCR Q1). </li>
