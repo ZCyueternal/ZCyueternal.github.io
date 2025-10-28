@@ -24,7 +24,7 @@ redirect_from:
   </li>
 
   <li>
-    <p><a href="">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</a><br />Na Wang, <strong>Chong-Yu Zhang</strong>, Yu-Wei Zhan, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu<br /> Pattern Recognition(<strong>PR</strong>), 2025.<br /> [<a href="" target="_blank">Paper</a>][<a href="https://github.com/SDUwn/DCWOH/" target="_blank">code</a>]
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0031320325012221">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</a><br />Na Wang, <strong>Chong-Yu Zhang</strong>, Yu-Wei Zhan, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu<br /> Pattern Recognition(<strong>PR</strong>), 2025.<br /> [<a href="" target="_blank">Paper</a>][<a href="https://github.com/SDUwn/DCWOH/" target="_blank">code</a>]
     </p>
   </li>
 
@@ -71,12 +71,6 @@ redirect_from:
   </l1>
 
 
-  <!--
-  <li>
-    <p><a href="">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</a><br />Na Wang, <strong>Chong-Yu Zhang</strong>, Xin Luo, Yu-Wei Zhan, Zhen-Duo Chen, Peng-Fei Zhang, Xin-Shun Xu<br /> submitted to Pattern Recognition, 2024.<br />
-    </p>
-  </li>
-  -->
 
 
 </ul>

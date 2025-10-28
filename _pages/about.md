@@ -84,7 +84,7 @@ Publications
             <span style="font-size:18px">Dynamic Clustering-Driven Weakly-Supervised Online Hashing with Enhanced Similarity</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Na Wang</span>, Chong-Yu Zhang<span style="font-weight:normal">, Yu-Wei Zhan, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">Pattern Recognition(<strong>PR</strong>), 2025.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="" target="_blank">Paper</a>][<a href="https://github.com/SDUwn/DCWOH" target="_blank">code</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://www.sciencedirect.com/science/article/pii/S0031320325012221" target="_blank">Paper</a>][<a href="https://github.com/SDUwn/DCWOH" target="_blank">code</a>]</span>
     </th>
   </tr> 
 </table>
