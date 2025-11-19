@@ -30,6 +30,7 @@ News
 ------
 
 <ul>
+  <li>[11/2025] One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM) (JCR Q1, CCF-B). </li>
   <li>[10/2025] I was awarded the Outstanding Master’s Degree Thesis Award of the “Inspur Rising Star Cup” by the Shandong Computer Federation. (Only 28 recipients selected in 2025). </li>
   <li>[10/2025] One paper is accepted by Pattern Recognition (PR) (JCR Q1, CCF-B). </li>
   <li>[05/2025] One paper is accepted by Knowledge-Based Systems (KBS) (JCR Q1). Congrats to <a href="https://pjunjie.github.io">Junjie</a>. </li>
@@ -70,6 +71,21 @@ Publications
             <span style="font-size:16px"><span style="font-weight:normal">Ting Fu, Yu-Wei Zhan</span>, Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo,  Zhen-Duo Chen, Yongxin Wang, Xun Yang, Xin-Shun Xu</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://doi.org/10.1145/3664647.3681319" target="_blank">Paper</a>][<a href="https://github.com/FtAhub/FedCAFE" target="_blank">code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/tomm_ipoh.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Gleaning Wisdom from the Past: Towards Label Incremental Learning for Online Hashing with a Plug-and-Play Framework</span><br>
+            <span style="font-size:16px">Chong-Yu Zhang<span style="font-weight:normal">, Xin Luo, Yu-Wei Zhan, Zhen-Duo Chen, Xin-Shun Xu</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ACM Transactions on Multimedia Computing Communications and Applications (<strong>ACM TOMM</strong>), 2025.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="#" target="_blank">Paper</a>][<a href="#" target="_blank">code</a>]</span>
     </th>
   </tr> 
 </table>
