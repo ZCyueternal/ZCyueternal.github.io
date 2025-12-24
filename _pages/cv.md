@@ -58,6 +58,7 @@ Mentoring
 
 Awards
 ------
+* Excellent Camper of the Autumn Camp, Zhongguancun Academy (2025)
 * Outstanding Master’s Degree Thesis Award of the “Inspur Rising Star Cup”, Shandong Computer Federation. (2025) (山东计算机学会“浪潮新星杯”优秀硕士学位论文奖, <span style="color: blue;">Only 28 recipients selected, 2025</span>)
 * Outstanding Graduate, Shandong University (2025) (<span style="color: blue;">山东大学优秀毕业生</span>)
 * Weichai Power Scholarship (2024) (潍柴动力奖学金, <span style="color: blue;">51 graduated students in SDU, 2024</span>)
