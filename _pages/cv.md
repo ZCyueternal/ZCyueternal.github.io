@@ -72,7 +72,8 @@ Awards
 Services & Leadership
 ------
 * Reviewer for journals
-  * Applied Intelligence
+  * ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM**)
+  *   * Applied Intelligence
 
 
 * Reviewer for conferences
