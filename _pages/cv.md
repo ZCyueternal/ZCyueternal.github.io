@@ -11,18 +11,18 @@ redirect_from:
 
 
 
-(Expired) My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)].
+<!-- (Expired) My CV (Curriculum Vitae) can be found in [[HTML_CV](../ownhtml/cv_html_page.html)]. -->
 
 
 Education
 ------
 * M.S.: Shandong University (2022-2025)
-  * GPA: 89.65/100 (<strong>Top 3</strong>)
+  * GPA: 89.65/100 (**Top 3**)
   * Major: Artificial Intelligence
   * Research topics: Machine Learning, especially Learning to Hash, Multi-modal Retrieval, Online Learning, Federated Learning, and Vision-Language model.
   * Thesis: Research on Online Hashing for Streaming Data Retrieval (<span style="color: blue;">Outstanding Master’s Degree Thesis Award, Shandong Computer Federation</span>)
 * B.S.: University of Jinan (2018-2022)
-  * GPA: 90.61/100; 4.55/5.0 (<strong>Top 3</strong>)
+  * GPA: 90.61/100; 4.55/5.0 (**Top 3**)
   * Major: Network Engineering
   * Thesis: Research on Student Performance Prediction Based on Ensemble Learning (<span style="color: blue;">Outstanding Undergraduate Thesis Award</span>)
 
@@ -65,7 +65,7 @@ Awards
 * Graduate First-Class Scholarship, Shandong University (2023, 2024)
 * Outstanding Graduate Student (All-Round Excellent/Merit Student) (2023, 2024) (<span style="color: blue;">山东大学优秀研究生/三好学生</span>)
 * Graduate Freshman Scholarship, Shandong University (2022)
-* Oustanding Undergraduate Thesis Award, University of Jinan (2022)
+* Outstanding Undergraduate Thesis Award, University of Jinan (2022)
 * Undergraduate First-Class Scholarship, University of Jinan (2019-2021)
 
 
@@ -73,11 +73,11 @@ Services & Leadership
 ------
 * Reviewer for journals
   * ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM**)
-  *   * Applied Intelligence
+  * Applied Intelligence
 
 
 * Reviewer for conferences
-  * ACM International Conference on Multimedia (**ACM MM**) 2024-2025 - Reviewer
+  * ACM International Conference on Multimedia (**ACM MM**) 2024-2026 - Reviewer
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining(**KDD**) 2025-2026 - Reviewer
   * The IEEE International Conference on Multimedia & Expo (**ICME**) 2023 - Reviewer
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**) 2023 - Reviewer
