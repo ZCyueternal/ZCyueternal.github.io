@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ------
-Welcome! I am an incoming PhD student at the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen (HITSZ), advised by Professor <a href="https://jlwu1992.github.io/">Jianlong Wu</a> and Professor <a href="https://homepage.hit.edu.cn/hanlianghit">Liang Han</a>.
+Welcome! I am a PhD student at the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen (HITSZ), advised by Professor <a href="https://jlwu1992.github.io/">Jianlong Wu</a> and Professor <a href="https://homepage.hit.edu.cn/hanlianghit">Liang Han</a>.
 
 Prior to my PhD, I received my Master's degree in Artificial Intelligence at <a href="https://mima.sdu.edu.cn">MIMA</a> Lab, School of Software, Shandong University in 2025, advised by Associate Professor <a href="https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm">Xin Luo</a>, co-advised by Professor <a href="https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm">Xin-Shun Xu</a>. During my master studies, I also worked closely with Associate Professor <a href="https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm">Zhen-Duo Chen</a> and Professor <a href="https://sduzpf.github.io/">Peng-Fei Zhang</a>. Before that, I received my Bachelor’s degree in School of Information Science and Engineering, University of Jinan, China, in June 2022, supervised by Professor [Xiuyang Zhao](https://ujnview.github.io/). I deeply appreciate the dedicated guidance and support.
 

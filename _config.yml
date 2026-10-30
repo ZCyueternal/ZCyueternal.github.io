@@ -147,6 +147,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/chinese.md
 keep_files:
   - .git
   - .svn
